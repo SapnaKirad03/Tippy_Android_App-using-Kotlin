@@ -1,4 +1,4 @@
-# Tippy_Android_App-using-Kotlin
+# Tippy - A Simple Tip Calculator App
 A Tippy App using android studio is a customer oriented service that calculate and computes based on the percentage you're tipping
 
 # Sreenshot
